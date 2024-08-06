@@ -33,7 +33,7 @@ Once the script is running, a window will open displaying the unit circle. You c
 The script performs the following steps:
 
 1. Sets up the plot using Matplotlib with a dark background style.
-2. Defines the complex function \( F(z) = z^2 + c \), where \( c \) is a user-defined constant.
+2. Defines the complex function $F(z)=z^2+c$, where $c$ is a user-defined constant.
 3. Plots the unit circle.
 4. Defines a function `Seq` that:
     - Clears the current plot.
@@ -49,4 +49,4 @@ The script performs the following steps:
 You can customize the script by changing the following parameters:
 - `depth`: Number of divisions for the plot axes.
 - `points`: Number of points in the sequence to plot.
-- `a`, `b`: Real and imaginary parts of the constant \( c \).
+- `a`, `b`: Real and imaginary parts of the constant $c$.
