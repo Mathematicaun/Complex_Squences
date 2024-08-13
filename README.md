@@ -50,3 +50,6 @@ You can customize the script by changing the following parameters:
 - `depth`: Number of divisions for the plot axes.
 - `points`: Number of points in the sequence to plot.
 - `a`, `b`: Real and imaginary parts of the constant $c$.
+
+## Author
+AYOUB ZAHRAN
